@@ -3,11 +3,11 @@
 //const myHeading = document.querySelector("h1");
 //myHeading.textContent = "Hello world !";
 
-
+/*
 document.querySelector("html").addEventListener("click", () => {
   alert("别戳我，我怕疼！");
 });
-
+*/
 
 const myImage = document.querySelector("img");
 //“myImage.onclick” 指的是在编程环境中，针对名为 “myImage” 的图像元素设置的点击事件处理程序。
